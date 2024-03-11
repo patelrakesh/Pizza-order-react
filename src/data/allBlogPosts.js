@@ -86,7 +86,7 @@ const allBlogPosts = [
     intro:
       "Discover the art of repurposing leftover pizza dough with our inventive ideas. From savory bites to sweet delights, your leftover dough has never been this exciting",
     date: "June 27, 2023",
-    author: "Himanshu",
+    author: "Rakesh",
     id: 3,
     content: `Got some leftover pizza dough from your recent pizza-making adventure? Don't let it go to waste! Leftover pizza dough is a versatile ingredient that can be transformed into a variety of delicious creations. Whether you're in the mood for something savory or sweet, we've got you covered with creative ideas to make the most out of that extra dough. Let's dive into the wonderful world of repurposing pizza dough leftovers.
 
